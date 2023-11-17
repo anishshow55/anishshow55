@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Show</h1>
+<h1 align="center">Namaste 🙏🏼 , I'm Anish Show</h1>
 <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" height="100px" width="100px">
 <img src="https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic"  height="400px" width="1000px" align="center">
 <h3 align="center">A passionate Cyber Security Analysts and Backend Developer</h3>
